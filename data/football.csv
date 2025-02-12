@@ -1,0 +1,14 @@
+Team,Average Points,Total Games,Goals Scored,Goals Conceded,Goal Difference,Win Percentage,Draw Percentage,Loss Percentage,Shots on Target,Possession Percentage,Standings,Top Scorer
+Manchester City,2.8,6,16,5,+11,83.33%,16.67%,0%,42,62%,1st,Erling Haaland
+Bayern Munich,2.7,6,15,6,+9,83.33%,16.67%,0%,38,60%,1st,Harry Kane
+Real Madrid,2.5,6,14,4,+10,83.33%,NULL,16.67%,36,58%,1st,Vinicius Jr
+Barcelona,2.3,6,13,7,+6,66.67%,16.67%,16.67%,28,57%,2nd,Robert Lewandowski
+Paris Saint-Germain,2.2,6,12,8,+4,66.67%,16.67%,16.67%,33,56%,2nd,Kylian Mbappe
+NULL,2.0,6,10,10,0,50.00%,33.33%,16.67%,30,55%,3rd,Unknown
+Inter Milan,1.8,6,9,9,0,50.00%,16.67%,33.33%,25,53%,3rd,Lautaro Martinez
+Inter Milan,1.8,6,9,9,0,50.00%,16.67%,33.33%,25,53%,3rd,Lautaro Martinez
+Napoli,1.7,6,NULL,12,-4,33.33%,33.33%,33.33%,20,NULL,4th,Victor Osimhen
+AC Milan,1.5,6,7,11,-4,33.33%,16.67%,50.00%,18,49%,4th,NULL
+Atletico Madrid,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Barcelona,2.3,6,13,7,+6,66.67%,16.67%,16.67%,28,57%,2nd,Robert Lewandowski
+Paris Saint-Germain,2.2,6,12,8,+4,66.67%,16.67%,16.67%,33,56%,2nd,Kylian Mbappe
