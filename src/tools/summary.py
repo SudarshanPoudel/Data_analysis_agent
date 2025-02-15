@@ -1,6 +1,7 @@
 import sqlite3
-from src.config.db import DB_PATH
+from src.config.db import DB_PATH, initialize_db
 
+initialize_db()
 def get_summary_from_db(path: str) -> str:
     """
     Retrieves a summary from the database if it exists.
